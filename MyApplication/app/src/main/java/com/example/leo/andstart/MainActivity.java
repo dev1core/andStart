@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    protected  void Signal(){}
-    
+    protected void Clck(){
+        
+    }
 }
